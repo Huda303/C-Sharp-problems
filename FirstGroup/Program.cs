@@ -22,8 +22,11 @@ namespace HelloWorld
 // Console.WriteLine(Prob19.CloserTo100());
 //Console.WriteLine(Prob1.Sums());
 // Console.WriteLine(Exchange.charex());
+ //Console.WriteLine(Proble2.LengthStr());
  //Exchange.charex();
-Probl12.Total();
+//Proble1.PrintStr();
+//Proble3.SplitStr();
+Proble8.CopyStr();
     }
   }
  
