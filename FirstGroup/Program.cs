@@ -23,7 +23,7 @@ namespace HelloWorld
 //Console.WriteLine(Prob1.Sums());
 // Console.WriteLine(Exchange.charex());
  //Exchange.charex();
-Probl11.Real();
+Probl12.Total();
     }
   }
  

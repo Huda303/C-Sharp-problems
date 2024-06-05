@@ -10,14 +10,18 @@
       int y = Convert.ToInt32(Console.ReadLine());
       Console.WriteLine("Input the marks Computer Application");
       int z = Convert.ToInt32(Console.ReadLine());
-     
+     // ارجاع الاسم و الرقم و 
           int total = x + y + z;
           double pers = total/3;
                 Console.WriteLine("your total is " + total);
                 Console.WriteLine("your Percentage  is " + pers);
             if (pers >= 80)
             {
-                                Console.WriteLine("your Percentage  is " + pers);
+                                Console.WriteLine("First");
+            }
+            else if(pers >= 80) 
+            {
+
             }
 
           
