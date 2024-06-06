@@ -19,12 +19,19 @@
             {
                                 Console.WriteLine("First");
             }
-            else if(pers >= 80) 
+            else if(pers >= 70 && pers < 80) 
             {
-
+                Console.WriteLine("second");
+            }
+            else if(pers >= 50 && pers < 70) 
+            {
+                Console.WriteLine("third");
             }
 
-          
+          else
+          {
+                Console.WriteLine("failed");
+          }
 
 
     }

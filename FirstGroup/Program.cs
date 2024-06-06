@@ -26,7 +26,7 @@ namespace HelloWorld
  //Exchange.charex();
 //Proble1.PrintStr();
 //Proble3.SplitStr();
-Proble8.CopyStr();
+Probl18.ElectricityBill();
     }
   }
  
