@@ -1,6 +1,6 @@
 class Probl18{
     public static double ElectricityBill(){
-
+    //couldn't run it
     int id = Convert.ToInt32(Console.ReadLine());
     int units = Convert.ToInt32(Console.ReadLine());
     String name = Console.ReadLine();
