@@ -26,7 +26,7 @@ namespace HelloWorld
  //Exchange.charex();
 //Proble1.PrintStr();
 //Proble3.SplitStr();
-Proble11.OrederedChar();
+Console.WriteLine(Exercises.StepCounter());
     }
   }
  
